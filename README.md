@@ -1,4 +1,6 @@
-# CyberIA — Análise de Logs de Firewall com IA
+# LogSense - Firewall Log Analysis and Classification Tool
+
+CyberIA — Análise de Logs de Firewall com IA
 
 Projeto de TCC reorganizado para manter um pipeline único, eliminar conflito de modelos e garantir consistência entre treino, validação e API.
 
@@ -177,3 +179,7 @@ O arquivo `src/models/classifier.py` usa heurísticas explicáveis para:
 - `ddos_suspeito`
 
 Isso é adequado para apresentação do TCC e pode ser refinado depois com logs reais do pfSense.
+=======
+# LogSense
+Firewall log analysis and classification tool
+>>>>>>> f82c33ee06344674f9d13df1d5cf08bd789be0a2
